@@ -1,9 +1,9 @@
 # WRF-GC-Hg
 
-Here we did some modifications for `WRF-GC` to contain elaborate mercury simulation. This repository (`WRF-GC-Hg`) contains three parts, `chem` is a supplementary `chem` directory for `WRF-GC v1.0` model (https://doi.org/10.5281/zenodo.3550330; Lin et al., 2019), `for input` contains modifications when set up simulations in `run` folder, `for ICBC` contains modifications for initital and boundary conditions.
+Here we did some modifications for `WRF-GC` to contain elaborate mercury simulation. This repository (`WRF-GC-Hg`) contains three parts, `chem` is a supplementary directory based on `WRF-GC v1.0` model (https://doi.org/10.5281/zenodo.3550330; Lin et al., 2019), `for input` contains modifications when set up simulations in `run` folder, `for ICBC` contains modifications for initial and boundary conditions.
 
-For model set-up and installation issues, please see `https://wrf.geos-chem.org` for more instuctions. 
-For initial and boundary condition issues, please see repsositories from `Xu Feng` [GitHub Pages](https://github.com/fengx7).
+For model set-up and installation issues, please see (https://wrf.geos-chem.org) for more instructions.
+For initial and boundary condition issues, please see repositories from `Xu Feng` [GitHub Pages](https://github.com/fengx7).
 
 Below is the path for files that have modified.
 1. WRF-GC/WRFV3/`registry.chem`
