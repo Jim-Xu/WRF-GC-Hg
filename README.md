@@ -16,7 +16,7 @@ Below is the path for files that have modified.
 8. WRF-GC/WRFV3/run/`input.geos`
 9. WRF-GC/WRFV3/run/`HEMCO_Config.rc`
 10. WRF-GC/WRFV3/run/`namelist.inpt`
-11. WRF-GC/mozbc/`GEOS-Chem.inp`
+11. WRF-GC/mozbc/`GEOSCHEM.inp`
 
 If you have any question related to `WRF-GC`, please contact: Haipeng Lin `hplin@seas.harvard.edu`, Xu Feng `fengx7@pku.edu.cn`, Tzung-May Fu `fuzm@sustech.edu.cn`
 If you have any question related to `WRF-GC-Hg`, please contact: Xiaotian Xu `xx24@illinois.edu`, Yanxu Zhang `zhangyx@nju.edu.cn`
